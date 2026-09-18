@@ -1,2 +1,0 @@
-# Haunted_Box_Maker_ESP32
-Haunted_Box_
